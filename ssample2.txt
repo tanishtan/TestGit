@@ -1,2 +1,7 @@
 This is another file cretaed.
+
 This is a new content added to master branch.
+
+
+QuickUpdates branc, some lines inserted from this branch.
+
